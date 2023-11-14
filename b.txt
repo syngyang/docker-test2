@@ -1,2 +1,2 @@
 # b.txt
-hello world class test
+hello world class test in b.txt
